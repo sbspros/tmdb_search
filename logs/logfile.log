@@ -1,0 +1,2 @@
+ 2022-09-05 10:22:29,946 - root - ERROR - 2022-09-05 10:22:29.946635 - https://api.themoviedb.org/3/movie/upcoming?api_key={key}&language={lang}&page={page}
+ 2022-09-05 10:22:29,946 - root - ERROR - 2022-09-05 10:22:29.946834 - https://api.themoviedb.org/3/genre/movie/list?api_key={key}&language={lang}
